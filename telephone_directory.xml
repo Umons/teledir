@@ -2,12 +2,7 @@
 
 <directory>
   <entry>
-    <name>Van Balkom</name>
-    <surname>Bartje</surname>
-    <number>0470 92 65 92</number>
-  </entry>
-  <entry>
-    <name>van de Weijer</name>
+    <name>Van De Weijer</name>
     <surname>Davide</surname>
     <number>0484 32 17 27</number>
   </entry>
@@ -20,6 +15,11 @@
     <name>Vrede</name>
     <surname>Florijn</surname>
     <number>0475 59 10 51</number>
+  </entry>
+  <entry>
+    <name>Dh</name>
+    <surname>Flavien</surname>
+    <number>0478 12 34 56</number>
   </entry>
   <entry>
     <name>Van Ede</name>
@@ -42,9 +42,9 @@
     <number>0484 21 73 42</number>
   </entry>
   <entry>
-    <name>Frijters</name>
-    <surname>Milana</surname>
-    <number>0484 21 73 42</number>
+    <name>Loos</name>
+    <surname>Badass</surname>
+    <number>0499 98 76 54</number>
   </entry>
   <entry>
     <name>Brongers</name>
@@ -65,11 +65,6 @@
     <name>Léveillé</name>
     <surname>Monique</surname>
     <number>0481 95 22 72</number>
-  </entry>
-  <entry>
-    <name>Soucy</name>
-    <surname>Eugène</surname>
-    <number>0475 64 06 68</number>
   </entry>
   <entry>
     <name>Bernard</name>
