@@ -2,83 +2,103 @@
 
 <directory>
   <entry>
-    <name>bartje van balkom</name>
+    <name>van balkom</name>
+    <surname>bartje</surname>
     <number>0470 92 65 92</number>
   </entry>
   <entry>
-    <name>Davide van de Weijer</name>
+    <name>van de Weijer</name>
+    <surname>Davide</surname>
     <number>0484 32 17 27</number>
   </entry>
   <entry>
-    <name>Micha Groothedde</name>
+    <name>Groothedde</name>
+    <surname>Micha</surname>
     <number>0479 20 27 80</number>
   </entry>
   <entry>
-    <name>Florijn Vrede</name>
+    <name>Vrede</name>
+    <surname>Florijn</surname>
     <number>0475 59 10 51</number>
   </entry>
   <entry>
-    <name>Aranka van Ede</name>
+    <name>van Ede</name>
+    <surname>Aranka</surname>
     <number>0486 14 07 86</number>
   </entry>
   <entry>
-    <name>Micha Groothedde</name>
+    <name>Groothedde</name>
+    <surname>Micha</surname>
     <number>0479 20 27 80</number>
   </entry>
   <entry>
-    <name>Fabiënne Ackermans</name>
+    <name>Ackermans</name>
+    <surname>Fabiënne</surname>
     <number>0490 63 76 53</number>
   </entry>
   <entry>
-    <name>milana frijters</name>
+    <name>frijters</name>
+    <surname>milana</surname>
     <number>0484 21 73 42</number>
   </entry>
   <entry>
-    <name>milana frijters</name>
+    <name>frijters</name>
+    <surname>milana</surname>
     <number>0484 21 73 42</number>
   </entry>
   <entry>
-    <name>Cathy Brongers</name>
+    <name>Brongers</name>
+    <surname>Cathy</surname>
     <number>0499 78 07 45</number>
   </entry>
   <entry>
-    <name>Henriette Villeneuve</name>
+    <name>Villeneuve</name>
+    <surname>Henriette</surname>
     <number>0477 16 10 54</number>
   </entry>
   <entry>
-    <name>Blanche Lejeune</name>
+    <name>Lejeune</name>
+    <surname>Blanche</surname>
     <number>0477 94 73 54</number>
   </entry>
   <entry>
-    <name>Monique Léveillé</name>
+    <name>Léveillé</name>
+    <surname>Monique</surname>
     <number>0481 95 22 72</number>
   </entry>
   <entry>
-    <name>Eugène Soucy</name>
+    <name>Soucy</name>
+    <surname>Eugène</surname>
     <number>0475 64 06 68</number>
   </entry>
   <entry>
-    <name>Ganelon Bernard</name>
+    <name>Bernard</name>
+    <surname>Ganelon</surname>
     <number>0479 59 21 33</number>
   </entry>
   <entry>
-    <name>Blanche Lejeune</name>
+    <name>Lejeune</name>
+    <surname>Blanche</surname>
     <number>0477 94 73 54</number>
   </entry>
   <entry>
-    <name>Maurice Rancourt</name>
-    <number>0489 20 40 49</number>
+    <name>Rancourt</name>
+    <urname>Mauricee</surnam>
+    <numsurnameber>0489 20 40 49</number>
   </entry>
   <entry>
-    <name>Alexander Schwab</name>
+    <name>Schwab</name>
+    <surname>Alexander</surname>
     <number>0482 48 04 82</number>
   </entry>
   <entry>
-    <name>Alexander Schwab</name>
+    <name>Schwab</name>
+    <surname>Alexander</surname>
     <number>0487 48 34 03</number>
   </entry>
   <entry>
-    <name>Barbara Ehrlichmann</name>
+    <name>Ehrlichmann</name>
+    <surname>Barbara</surname>
     <number>0495 18 24 79</number>
   </entry>
 </directory>
